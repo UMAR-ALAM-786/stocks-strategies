@@ -3,8 +3,9 @@
 # 📈 Stock Trading Dashboard
 
 ```bash
-# Quick Start
-1. git clone https://github.com/yourusername/stock-trading-dashboard.git
+# Quick Start with clone this repo and follow the below steps
+1. git clone https://github.com/UMAR-ALAM-786/stocks-strategies.git
+
 2. npm create vite@latest stock-dashboard --template react
 
 3. npm install react-chartjs-2 chart.js
